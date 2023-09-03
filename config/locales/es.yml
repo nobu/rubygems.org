@@ -344,6 +344,8 @@ es:
         servidas por %{fastly}, y el tiempo entre que se publica una gema y que está
         lista para instalarse es mínimo. Para más información, %{source_code}, cuya
         licencia es %{license} en GitHub.'
+      source_code: por favor revisa el código
+      license: Licencia MIT
       title: Acerca de
       purpose:
         better_api: Ofrecer una mejor API para manejar gemas

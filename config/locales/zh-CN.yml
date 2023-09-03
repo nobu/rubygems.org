@@ -335,7 +335,10 @@ zh-CN:
         %{dockyard} 创建。%{github} 也帮助我们轻松地协作和共享代码。本站最初部署于 %{heroku}，其一流的服务助证了 RubyGems
         是整个社区可以依赖的可行方案。当前，我们的基础设施托管于 %{aws}.
       technical_html: 关于本站的一些技术方案：100% Ruby。主站是一个 %{rails} 应用。Gem 托管于 %{s3}, 由 %{fastly}
-        提供服务，从发布一个新 Gem 到做好安装准备之间的耗时通常只有几秒。更多信息可以在 GitHub 上阅读基于 %{license} 协议的 %{source_code}。
+        提供服务，从发布一个新 Gem 到做好安装准备之间的耗时通常只有几秒。更多信息可以在 GitHub 上阅读基于 %{license} 的 %{source_code}。
+      source_code: 代码
+      license: MIT 协议
+
       title: 关于
       purpose:
         better_api: 提供更好的 API 来为 Gem 服务

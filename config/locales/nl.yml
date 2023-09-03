@@ -331,6 +331,8 @@ nl:
         served by %{fastly}, en de tijd tussen het publiceren van een nieuwe gem en
         het beschikbaar zijn voor installatie is minimaal. Voor meer informatie, %{source_code} op
         GitHub. De code is %{license}'
+      source_code: Bekijk de code
+      license: MIT-licentie
       title: Over
       purpose:
         better_api: Een betere API ter beschikking te stellen voor het beheren van

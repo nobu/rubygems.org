@@ -316,8 +316,10 @@ zh-TW:
         %{dockyard} 提供。%{github} 也幫助我們能更容易地協作和分享原始碼。本站部署在 %{heroku} 上，其一流的服務，更有助於證明
         Gemcutter 是一個可以穩定、可行的解決方案。Our infrastructure is currently hosted on %{aws}.
       technical_html: 關於本站的技術資訊：100% Ruby。主站是一個 %{rails} 應用程式。Gems 架設在 %{s3} 上, served
-        by %{fastly}, 使得 Gem 從發佈到提供下載的時間大幅縮短。詳細資訊可從 GitHub 上的 %{source_code} 查看（遵守
-        %{license} 協議）。
+        by %{fastly}, 使得 Gem 從發佈到提供下載的時間大幅縮短。詳細資訊 GitHub 上的 %{source_code}（遵守
+        %{license}）。
+      source_code: 可從代碼查看
+      license: MIT 協議
       title: 關於
       purpose:
         better_api: 提供更好的 Gem API

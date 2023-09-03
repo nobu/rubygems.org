@@ -345,8 +345,10 @@ fr:
         : il est en Ruby à 100%. Le site principal est une application %{rails}. Les
         Gems sont hébergés sur %{s3}, served by %{fastly}, permettant un record de
         vitesse entre le moment de publication et de mise à disposition de gems. Pour
-        davantage d''informations, le %{source_code} est disponible sous licence %{license}
+        davantage d''informations, le %{source_code} est disponible sous %{license}
         sur GitHub.'
+      source_code: code source
+      license: licence MIT
       title: À propos
       purpose:
         better_api: Fournir une meilleure API pour gérer les gems

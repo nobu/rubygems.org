@@ -343,7 +343,9 @@ en:
         Gems are hosted on %{s3}, served by %{fastly}, and the time between
         publishing a new gem and having it ready for installation is usually
         just a few seconds.
-        For more info, %{source_code}, which is %{license} over at GitHub."
+        For more info, %{source_code} which is %{license}, at GitHub."
+      source_code: please check out the code
+      license: MIT licensed
       title: About
       purpose:
         better_api: Provide a better API for dealing with gems

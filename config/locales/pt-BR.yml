@@ -342,8 +342,10 @@ pt-BR:
       technical_html: 'Alguns aspectos técnicos sobre este site: 100% Ruby. A parte
         principal é um aplicativo %{rails}. As gems são hospedadas no %{s3}, servido
         por %{fastly}, e o tempo de espera entre publicar uma nova gem e disponibilidade
-        para instalação é mínimo. Para mais informações, verifique o %{source_code},
-        com a licença %{license} no GitHub.'
+        para instalação é mínimo. Para mais informações, %{source_code}, com a %{license},
+        no GitHub.'
+      source_code: verifique o código
+      license: licença MIT
       title: Sobre o Rubygems
       purpose:
         better_api: Prover uma API melhor para lidar com gems

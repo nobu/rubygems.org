@@ -337,8 +337,9 @@ ja:
       technical_html: このサイトの技術的な側面に目を向けるなら、100% Rubyでできています。
         サイトの主要な部分は%{rails}アプリケーションです。
         gemは%{s3}上にホストされ、%{fastly}によりサーブされており、新しく公開したgemがインストール可能になるまで通常はほんの数秒です。
-        詳細は%{source_code}。
-        GitHub上で%{license}となっています。
+        詳細は、GitHub上にある%{license}の%{source_code}。
+      source_code: ソースコードを見てください
+      license: MITライセンス
       title: 概要
       purpose:
         better_api: gemを取り扱う、より良いAPIを提供すること

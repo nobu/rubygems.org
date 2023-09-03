@@ -328,6 +328,8 @@ de:
         der Veröffentlichung eines neuen Gems und nachdem er bereit zur Installation
         freigegeben ist, ist minimal. Für mehr Informationen siehe %{source_code}
         (%{license}) auf GitHub.'
+      source_code: bitte schauen Sie sich den Code an
+      license: MIT-lizenziert
       title: Über uns
       purpose:
         better_api: Bereitstellen eines besseren APIs für den Umgang mit Gems

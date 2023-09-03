@@ -330,6 +330,8 @@ pt-BR:
         e %{downloads}. A partir do lançamento do RubyGems 1.3.6 o site foi renomeado
         de Gemcutter para %{title} para solidificar o papel centra do site na comunidade
         Ruby.
+      contributors: mais de 350 rubistas
+      downloads: milhões de downloads de gemas
       support_html: Pelo Gemcutter não ser mantido por uma empresa específica, o projeto
         contou e conta com a contribuição de muitas pessoas. O design atual, ilustrações
         e o frontend do site foram criados pela %{dockyard}. Nós também contamos com

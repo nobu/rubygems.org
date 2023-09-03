@@ -326,6 +326,8 @@ ja:
         現在%{contributors}の貢献を得て%{downloads}に到るまで成長を遂げました。
         RubyGems 1.3.6 リリースからは、サイト名称をGemcutterから%{title}に変更し、
         Rubyコミュニティの中におけるサイトの役割を明確化しました。
+      contributors: 350人以上のRubysitたち
+      downloads: 何億回ものgemダウンロード
       support_html: Rubygems.orgは特定の企業によって運営されているわけではありませんが、
         これまで沢山の企業により助けられてきました。
         現行のサイトのデザイン、イラストレーション、そして本サイトのフロントエンド開発は%{dockyard}により為されました。
